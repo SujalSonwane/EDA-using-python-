@@ -10,9 +10,10 @@
 
  ****Insights Discovered****
  
-1. Women spent more than men during the Diwali season
+1.Cleaned and analyzed 11,000+ transaction records to identify demographic and regional purchase drivers
 
-2. Buyers aged 26–35 were the most active demographic
+2.Found female buyers accounted for 70% of total sales value and the 26–35 age group drove 40% of revenue — more than double any other age bracket
 
-3. Certain states and product categories showed significantly higher sales
+3.Identified Uttar Pradesh, Maharashtra, and Karnataka as the top 3 revenue states (44% combined) and Food as the leading category (32% of sales)
 
+4.Delivered regional and demographic insights to inform targeted marketing and inventory decisions during peak season
